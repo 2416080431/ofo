@@ -1,0 +1,25 @@
+.container{
+  height: 100vh;
+  background: #eedeb0;
+}
+.service{
+  height: 80%;
+  padding-top: 20%;
+}
+.items{
+  padding-top: 5%;
+  height: 40%;
+  width: 50%;
+  float: left;
+}
+.img{
+  height: 60%;
+	width: 80%;
+  display: inline-block;
+  vertical-align: middle;
+  padding-left: 10%;
+}
+.remark{
+  text-align: center;
+  margin-top: 10%;
+}

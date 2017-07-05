@@ -1,0 +1,17 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/service/service",
+    "pages/person/person",
+    "pages/activity/activity",
+    "pages/scan/scan"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "1b1b20",
+    "navigationBarTitleText": "ofo",
+    "navigationBarTextStyle":"white"
+  }
+}

@@ -1,0 +1,31 @@
+<view class="container">
+  <view class="service">
+      <view class="items">
+          <image src="{{lock}}" class="img"></image>
+          <view class="remark">
+            上私锁
+          </view>
+      </view>
+      
+      <view class="items">
+          <image src="{{breakdowm}}" class="img"></image>
+          <view class="remark">
+            车损坏
+          </view>
+      </view>
+
+      <view class="items">
+          <image src="{{nobike}}" class="img"></image>
+          <view class="remark">
+            没车用
+          </view>
+      </view>
+
+      <view class="items">
+          <image src="{{unpark}}" class="img"></image>
+          <view class="remark">
+            乱停车
+          </view>
+      </view>
+  </view>
+</view>
